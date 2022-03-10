@@ -1,5 +1,7 @@
 # [ &#128081; Dataton &#128081; ]
 2022.03.08 부터 2022.03.11 까지 강남 Aiffel에서 주최하는 Dataton에 참여하게 되었습니다.
+
+< H&M DATA EDA/Personalized-Fashion-Recommendation >
 - 강태원 : 데이터 원본 가공, 시각화(연령, 제품 분류)
 - 민진원 (발표) : 전처리, 시각화,
 - 박지호 : 데이터 전처리, 시각화 (색상, 연령, 뉴스 수신 여부)
@@ -10,11 +12,39 @@ Competiotion의 목적은 H&M 고객 맞춤형 추천시스템을 구축하는 �
 해당 데이터셋을 선택한 이유는 제품정보, 고객정보, 거래정보 데이터 및 이미지 데이터를 제공 받아 다양한 EDA가 가능하기 때문입니다.
 
 ## &#128086; Contents
+1. Gender 컬럼 생성
 
+2. 월별 Top 10 이미지 파일 시각화
 
+3. 기간별 매출
 
+4. 계절별 매출
 
+5. Customer Age
 
+6. Color
+
+7. sales_channel_id
+
+8. Department_name
+
+9. Garment Group Name
+
+10. Index Goup Name
+
+11. Club Member Status
+
+12. Fashion_News_Frequency
+
+13. Postal Code 
+
+14. 계절성(seasonality)을 띄는 제품을 PCA와 Clustering을 활용한 시각화
+
+15. PCA(Principal Component Analysis)
+
+16. GMM(Gaussian Mixture Models)/가우시안 혼합 모델
+
+17. EDA를 통한 인사이트
 
 ## &#128095; feature discussion
 (original features)
