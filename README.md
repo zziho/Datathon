@@ -65,11 +65,11 @@ Competiotion의 목적은 H&M 고객 맞춤형 추천시스템을 구축하는 �
 -  postal_code:우편번호(암호화되어 있음)
 
 (additional features)
-- age_segment:연령대(10대, 20대, 30대,...)
-- month:주문 월
-- year_month:년와 월만 표시(201810)
-- season:계절(spring,summer, fall, winter)
-- postal_code:우편번호(암호화되어 있음)
+- age_segment : 연령대(10대, 20대, 30대,...)
+- month : 주문 월
+- year_month : 년와 월만 표시(201810)
+- season : 계절(spring,summer, fall, winter)
+- postal_code : 우편번호(암호화되어 있음)
 
 
 ## &#128140;
